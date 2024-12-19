@@ -126,6 +126,8 @@ strong{
 }
 .apresentacao__imagem{
     width: 50%;
+    height: 520px;
+    object-fit: cover;
 }
 .rodapes{
     padding: 24px;
